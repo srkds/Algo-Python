@@ -1,5 +1,7 @@
 # Algo-Python
 
+Repository contains Algorithm's implementations and explainations that I got introduced during bachelor's and in masters in computer engineering.
+
 In my bachelor's, I had a subject named Analysis and Design of Algorithms, one of the most important subjects of computer science. And topics like recurrence relation, dynamic programming, greedy technique, and graph algos were there. 
 
 I used multiple resources to learn this subject which consists including multiple youtube channels and books.
